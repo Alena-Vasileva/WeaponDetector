@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "97fe3a39-b78e-470b-9ce5-dd613ef724aa": {
+      "ProjectGuid": "97fe3a39-b78e-470b-9ce5-dd613ef724aa",
+      "DisplayName": "WeaponDetector",
+      "ColorIndex": 0
+    },
+    "3810ea55-de69-4db1-a200-842f9e0a6b3a": {
+      "ProjectGuid": "3810ea55-de69-4db1-a200-842f9e0a6b3a",
+      "DisplayName": "WeaponDetector.Android",
+      "ColorIndex": 1
+    },
+    "58f464d7-0091-4bf1-9ee9-7089bf7f589a": {
+      "ProjectGuid": "58f464d7-0091-4bf1-9ee9-7089bf7f589a",
+      "DisplayName": "WeaponDetector.iOS",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
