@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rknUvRtjZKfnZW4fbfRViLj+eMUQI9oA9MsXGdv35UQDriiQ0B8Pazth3FWdCv295d/YpX4+ERDW4W+CAV21sw==",
+  "dgSpecHash": "epH3NPtJbT/A1GGOhYDQRqTj4wlqvxJPhsTfWwXSk6sY39Pm2yAw/z8VIdHKaMSiZV0tcy86boWrgf4dTvr0lg==",
   "success": true,
   "projectFilePath": "D:\\Development\\Xamarin\\WeaponDetector\\WeaponDetector\\WeaponDetector.Android\\WeaponDetector.Android.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,10 @@
     "C:\\Users\\angel\\.nuget\\packages\\awssdk.s3\\3.7.7.15\\awssdk.s3.3.7.7.15.nupkg.sha512",
     "C:\\Users\\angel\\.nuget\\packages\\awssdk.securitytoken\\3.7.1.108\\awssdk.securitytoken.3.7.1.108.nupkg.sha512",
     "C:\\Users\\angel\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
+    "C:\\Users\\angel\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\angel\\.nuget\\packages\\skiasharp\\2.80.3\\skiasharp.2.80.3.nupkg.sha512",
+    "C:\\Users\\angel\\.nuget\\packages\\skiasharp.views\\2.80.3\\skiasharp.views.2.80.3.nupkg.sha512",
+    "C:\\Users\\angel\\.nuget\\packages\\skiasharp.views.forms\\2.80.3\\skiasharp.views.forms.2.80.3.nupkg.sha512",
     "C:\\Users\\angel\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\angel\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
     "C:\\Users\\angel\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

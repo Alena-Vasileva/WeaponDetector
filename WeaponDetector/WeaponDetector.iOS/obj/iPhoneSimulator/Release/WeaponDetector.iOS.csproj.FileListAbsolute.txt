@@ -68,3 +68,7 @@ D:\Development\Xamarin\WeaponDetector\WeaponDetector\WeaponDetector.iOS\obj\iPho
 D:\Development\Xamarin\WeaponDetector\WeaponDetector\WeaponDetector.iOS\obj\iPhoneSimulator\Release\WeaponDetector.iOS.csproj.CoreCompileInputs.cache
 D:\Development\Xamarin\WeaponDetector\WeaponDetector\WeaponDetector.iOS\obj\iPhoneSimulator\Release\WeaponDetector.iOS.csproj.CopyComplete
 D:\Development\Xamarin\WeaponDetector\WeaponDetector\WeaponDetector.iOS\obj\iPhoneSimulator\Release\WeaponDetector.iOS.exe
+D:\Development\Xamarin\WeaponDetector\WeaponDetector\WeaponDetector.iOS\bin\iPhoneSimulator\Release\Newtonsoft.Json.dll
+D:\Development\Xamarin\WeaponDetector\WeaponDetector\WeaponDetector.iOS\bin\iPhoneSimulator\Release\SkiaSharp.dll
+D:\Development\Xamarin\WeaponDetector\WeaponDetector\WeaponDetector.iOS\bin\iPhoneSimulator\Release\SkiaSharp.Views.iOS.dll
+D:\Development\Xamarin\WeaponDetector\WeaponDetector\WeaponDetector.iOS\bin\iPhoneSimulator\Release\SkiaSharp.Views.Forms.dll
