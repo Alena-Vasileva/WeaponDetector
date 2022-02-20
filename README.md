@@ -172,12 +172,7 @@ Use Cases
 
 Демонстрация решения
 ---
-В качестве референсных архитектур мы решили взять Data discovery  reference  architecture от IBM и Мобильное клиентское приложение на основе задач от Microsoft
 
-На первую мы будем ориентироваться при проектировании сбора данных о прогнозе погоды (элементы в DATA COLLECTION RUNTIME FLOW). Из второй архитектуры мы взяли то, как сервисы Azure встраиваются в разработку ПО.
-
-![enter image description here](https://github.com/Alena-Vasileva/FarmerCyberAssistant/blob/main/img/Image_3.jpg)
-![enter image description here](https://github.com/Alena-Vasileva/FarmerCyberAssistant/blob/main/img/Image_4.png)
 
 Направления дальнейшей разработки
 ---
