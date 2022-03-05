@@ -32,8 +32,8 @@ namespace WeaponDetector
         {
 
             var s3Client = new AmazonS3Client(
-                "AKIAZLSCHF3AL4A45KWU",
-                "hm5TLaBiTCE75sYNJcZhGoAqN1GKvQ65cwZWUpSk",
+                "***",
+                "***",
                 RegionEndpoint.EUCentral1
             );
             Random rand = new Random();
